@@ -93,4 +93,3 @@ def get_median(number_list):
         return (number_list[middle - 1] + number_list[middle]) / 2
     else:
         return number_list[middle]
-    return median
